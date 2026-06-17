@@ -20,4 +20,4 @@ Assume we are using a standard multi-class Kaggle email dataset (e.g., categorie
 - Write a clean, self-contained Streamlit application code block. 
 - The dashboard must include: text inputs for "Email Subject" and "Email Content", a "Predict" button, a display for the predicted category, a confidence score, and a mock history log of previous predictions.
 
-Please structure your response clearly with markdown headings corresponding to these phases, ensuring the code is modular, well-commented, and ready to deploy.
+
